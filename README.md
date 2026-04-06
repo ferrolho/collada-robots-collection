@@ -1,3 +1,7 @@
+> **Archived.** This collection has been superseded by [robot-viewer-models](https://github.com/ferrolho/robot-viewer-models), which sources URDF descriptions from [robot-descriptions](https://github.com/robot-descriptions/robot_descriptions.py) and converts meshes to web-optimized GLB. See [robot-viewer](https://github.com/ferrolho/robot-viewer) for the viewer.
+
+---
+
 # COLLADA Robots Collection
 
 A collection of COLLADA (COLLAborative Design Activity) robot models.
